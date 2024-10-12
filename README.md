@@ -6,3 +6,4 @@ Developed a static version of the YouTube homepage using HTML and CSS. This proj
 - Cross-Browser Compatibility: Verified the design’s consistency across multiple web browsers.
 
 __This is a YouTube-Like Website Clone__
+https://kathwin12.github.io/personal-html-website/
